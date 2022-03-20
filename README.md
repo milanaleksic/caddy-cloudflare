@@ -1,5 +1,7 @@
 # caddy-cloudflare
 
+> This repo is source for docker image https://hub.docker.com/r/milanaleksic/caddy-cloudflare
+
 Build & deploy using `./build.sh`
 
 The script depends on Docker for Desktop (Mac), because that one supports multi-arch use-case.
