@@ -1,8 +1,8 @@
 #!/usr/bin/env bash
 
-# latest on 10/01/2023
-export CADDY_VERSION=2.6.2
-export IMAGE_VERSION=2.6.2
+# latest on 27/01/2024
+export CADDY_VERSION=2.7.6
+export IMAGE_VERSION=2.7.6
 
 # This depends on Docker for Desktop (Mac), because that one supports multi-arch output
 # Create that builder with "docker buildx create --name multiarch"
